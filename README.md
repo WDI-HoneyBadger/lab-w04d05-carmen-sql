@@ -26,7 +26,7 @@ psql
 
 # Create database
 CREATE DATABASE carmen;
-
+'
 # Connect to carmen
 \c carmen
 \i world.SQL
@@ -72,10 +72,6 @@ Then, use the clues below to create the appropriate SQL queries to help you find
 ```
 
 
-## Submission
-
-Homework is due by **11:00 tonight**! Remember to work with each other and go to TAs when you need it, but follow the [guidelines](https://git.generalassemb.ly/wdi-nyc-5-22/course-information/blob/master/how-to-queue-with-TAs.md) for queuing. Follow the normal [rules for homework submission](https://git.generalassemb.ly/wdi-nyc-5-22/course-information/blob/master/homework-policy.md), remember to include a link to your **repo**.
-
 ---
 
 ## Want to learn more!? :book:
@@ -86,7 +82,6 @@ There are **a lot** of resources on the web!
 
 - [PostgreSQL tutorial](http://www.tutorialspoint.com/postgresql/)
 - [PostgreSQL official documentation](http://www.postgresql.org/docs/)
-- [SQL JOIN](http://www.dofactory.com/sql/join)
 - [SQL Zoo](http://sqlzoo.net/) - _(SQL tutorial and practice problems)_
 - [Hacker Rank](https://www.hackerrank.com/domains/sql/select) - _(You will need an account, its free! Also a good place to practice algorithms)_
 
